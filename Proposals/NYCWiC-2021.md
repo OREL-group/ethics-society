@@ -34,11 +34,5 @@ Title / focus: A critical take on AI Ethics / frameworks
 
 ### Resources List
 See also, shared document (that will be more updated than this .md file)
-#### Non-Academic Aritcles & Links
-- https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough  
-- https://www.technologyreview.com/2021/02/05/1017388/ai-deep-learning-facial-recognition-data-history/ 
-- https://www.technologyreview.com/2021/01/24/1016669/alt-tech-investment-venture-capital-capitol-attack/
-- https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence
-- https://en.wikipedia.org/wiki/Programming_ethics 
-- https://technologyandsociety.org/norbert-wiener-and-the-counter-tradition-to-the-dream-of-mastery/ 
-- https://miad.medium.com/dr-timnit-gebru-big-tech-and-the-ai-ethics-smokescreen-45eb03d1fe6d 
+- Zotero Public library: https://www.zotero.org/groups/2574810/orel/collections/AQ63PAPK
+ 
