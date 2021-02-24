@@ -24,8 +24,8 @@ Title / focus: A critical take on AI Ethics / frameworks
     - Automated Decision Making 
     - Algorithmic Audiing 
   - History & Philosophy 
-  -  Historical Context & ingrained bias
-  - "neutrality" 
+    -  Historical Context & ingrained bias
+    - "neutrality" 
 
 - Specific topics within AI Ethics - (Suggest your own) 
 
