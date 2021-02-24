@@ -13,15 +13,23 @@ Title / focus: A critical take on AI Ethics / frameworks
 - Philosophy
   - MacInttyre's question of how to find moral uniformity in the modern world
   - The Dream of Mastery & Counter Tradition 
-- Comparative analysis of regional / governance frameworks
-- Catalogue of nonprofits / organizations 
-- Specific topics within AI Ethics
-  - Data Bias
-  - Funding differences in private / public ethics efforts
-  - Predictive Policing 
-  - Automated Decision Making 
-  - Historical Context & ingrained bias
+- Different Facects of the AI Ethics Arena
+  - Governmental & Policy, Organizations & Institutions 
+    - Comparative analysis of regional / governance frameworks
+    - Catalogue of nonprofits / organizations 
+    - Funding differences in private / public ethics efforts
+    - Predictive Policing 
+  - Computer & Data Science
+    - Data Bias
+    - Automated Decision Making 
+    - Algorithmic Audiing 
+  - History & Philosophy 
+  -  Historical Context & ingrained bias
   - "neutrality" 
+
+- Specific topics within AI Ethics - (Suggest your own) 
+
+
 
 
 ### Resources List
