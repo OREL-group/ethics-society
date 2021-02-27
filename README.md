@@ -28,7 +28,7 @@ Latest Update: NYCWiC accepted presentation is in the works, but the Ethics Team
 - Bias and "Neutraliy" - Critical Analaysis
 - Moral Theory & Philosphical Underpinnings
 - AI Safety vs AI Ethics
-- ... with room for your specific interests! [Comment on a GitHub Issue - or make your own](https://github.com/orgs/OREL-group/projects/6)
+- ... with room for your specific interests! [Comment on / Create a GitHub Issue!](https://github.com/orgs/OREL-group/projects/6)
 
 ### Resources
 - [GitHub Project Board](https://github.com/orgs/OREL-group/projects/6) | [NYCWiC '21 Homepage](www.nycwic.org/) | [Previous NYCWiC Submissions](https://www.researchgate.net/publication/339813839_Bridging_the_Gap_An_Interdisciplinary_Examination_of_Implementing_AI_Ethics)
@@ -38,7 +38,7 @@ Latest Update: NYCWiC accepted presentation is in the works, but the Ethics Team
 
 
 ### Contact
-Reach out to [Jesse on Twitter](https://twitter.com/JesParent) or OREL Slack - or leave a comment / issue here on GitHub!
+Reach out to [Jesse on Twitter](https://twitter.com/JesParent) or OREL Slack. [Comment on / Create a GitHub Issue!](https://github.com/orgs/OREL-group/projects/6)
 
 
 # Fancy Ethics Team Image Below~~
