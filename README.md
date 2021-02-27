@@ -27,6 +27,7 @@ Latest Update: NYCWiC accepted presentation is in the works, but the Ethics Team
   - Interpretatbility & Explainability
 - Bias and "Neutraliy" - Critical Analaysis
 - Moral Theory & Philosphical Underpinnings
+- AI Safety vs AI Ethics
 - ... with room for your specific interests!
 
 ### Resources
