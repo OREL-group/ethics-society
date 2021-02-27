@@ -10,7 +10,7 @@ As artificial intelligence and automation of critical decision making becomes mo
 Title / focus: A critical take on AI Ethics / frameworks 
 
 #### Key concepts
-- Philosophy
+- Philosophical Underpinnings
   - MacInttyre's question of how to find moral uniformity in the modern world
   - The Dream of Mastery & Counter Tradition 
 - Different Facects of the AI Ethics Arena
