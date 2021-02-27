@@ -34,7 +34,7 @@ Latest Update: NYCWiC accepted presentation is in the works, but the Ethics Team
 - [GitHub Project Board](https://github.com/orgs/OREL-group/projects/6) 
 - [NYCWiC '21](www.nycwic.org/) 
 - [Medium Post on Ethics Team](https://medium.com/orel-group/society-ethics-team-nycwic-lab-news-smn-21-02-06-504ce6151366)
-- [Discussion of Background in Saturday Morning Neurosim (Feb 2)](https://www.youtube.com/watch?v=bUQDJJ6ABpM&lc=UgzgzUGNV8qOakUV0Z94AaABAg)
+- [Discussion of Background in Saturday Morning Neurosim (Feb 2)](https://www.youtube.com/watch?v=bUQDJJ6ABpM&lc=UgzgzUGNV8qOakUV0Z94AaABAg) (See Jesse's Comment for Timestamps)
 - [Ethics Team Zotero Library (Public)](https://www.zotero.org/groups/2574810/orel/collections/AQ63PAPK)
 
 
