@@ -1,5 +1,5 @@
 # NYCWiC 2021
-www.nycwic.org
+www.nycwic.org New York Celebration of Women in Computing 
 
 ## Abstract Submission
 #### Towards a Sufficient Unified Ethical Frameworks for AI: Challenges & Opportunities
