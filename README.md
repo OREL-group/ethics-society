@@ -1,9 +1,9 @@
 # OREL Ethics & Society Team
 *A new Orthogonal Research & Education Lab - Ethics &amp; Society, focusing on AI Ethics, society-tech issues, law, programming ethics, and dovetails into fairness &amp; interpretability / explainability*
 
-### Current Project: NYCWiC '21 AI Ethics Presentation, and AI Now's AI Lexicon submissions
+### Current Project: NYCWiC '21 (Accepted!) AI Ethics Presentation, and AI Now's AI Lexicon
 
-In the action-item sense, the NYCWiC accepted presentation is in the works, but the Ethics Team at my lab itself has a variety of projects on this topic. 1) NYCWiC presentation, 2) Submissions to AI Now's AI Lexicon short essays call for involvement, 3) Manuscript - eventual development into much broader, refined paper. We are not AI Ethics Experts, but we can engage in cross-disciplinary team work in way befitting of operating within AI Ethics endeavors. 
+Latest Update: NYCWiC accepted presentation is in the works, but the Ethics Team at my lab itself has a variety of projects on this topic. 1) NYCWiC presentation, 2) Submissions to AI Now's AI Lexicon short essays call for involvement, 3) Manuscript - eventual development into much broader, refined paper. We are not AI Ethics Experts, but we can engage in cross-disciplinary team work in way befitting of operating within AI Ethics endeavors. 
 
 #### AI Ethics Presentation: Call for Involvement
 [GitHub Project Board](https://github.com/orgs/OREL-group/projects/6) | [NYCWiC '21](www.nycwic.org/) | Current Project Details: AI Ethics Frameworks Short Persentation 
