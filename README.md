@@ -6,9 +6,9 @@
 In the action-item sense, the NYCWiC accepted presentation is in the works, but the Ethics Team at my lab itself has a variety of projects on this topic. 1) NYCWiC presentation, 2) Submissions to AI Now's AI Lexicon short essays call for involvement, 3) Manuscript - eventual development into much broader, refined paper. We are not AI Ethics Experts, but we can engage in cross-disciplinary team work in way befitting of operating within AI Ethics endeavors. 
 
 #### AI Ethics Presentation: Call for Involvement
-[GitHub Project Board](https://github.com/orgs/OREL-group/projects/6) | Current Project Details: AI Ethics Frameworks Short Persentation 
+[GitHub Project Board](https://github.com/orgs/OREL-group/projects/6) | [NYCWiC '21](www.nycwic.org/) | Current Project Details: AI Ethics Frameworks Short Persentation 
 
-- ~15 minute presentation at NYCWiC (Accepted!)
+- ~15 minute presentation at NYCWiC (Accepted! Our (pre-recorded?) presentation will air April 9)
 - [Preliminary Abstract](https://github.com/OREL-group/ethics-society/blob/main/Proposals/NYCWiC-2021.md#abstract-submission): "Towards a Sufficient Unified Ethical Framework for AI: Challenges & Opportunities"
 - Approach: Overview, with specific emphasis on selected topics in AI Ethics
 - Involvement/Time commitment minimum: in the next month (Due ~ April 5), read materials and contribute to at least one slide / 60 seconds of presentation (there are several opportunities for greater involvement)
