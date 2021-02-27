@@ -8,10 +8,9 @@ In the action-item sense, the NYCWiC accepted presentation is in the works, but 
 #### AI Ethics Presentation: Call for Involvement
 [GitHub Project Board](https://github.com/orgs/OREL-group/projects/6) | Current Project Details: AI Ethics Frameworks Short Persentation 
 
-
-- ~15 minute presentation at NYCWiC - I'm not sure yet if you'd need to be "there" even though it's virtual. We may do a pre-recorded submission. 
-- Accepted Abstract title: "Towards a Sufficient Unified Ethical Frameworks for AI: Challenges & Opportunities"
-- Approach: Overview, with specific emphasis on selected topics in AI Ethics, broadly speaking
+- ~15 minute presentation at NYCWiC (Accepted!)
+- [Preliminary Abstract](https://github.com/OREL-group/ethics-society/blob/main/Proposals/NYCWiC-2021.md#abstract-submission): "Towards a Sufficient Unified Ethical Framework for AI: Challenges & Opportunities"
+- Approach: Overview, with specific emphasis on selected topics in AI Ethics
 - Involvement/Time commitment minimum: in the next month (Due ~ April 5), read materials and contribute to at least one slide / 60 seconds of presentation (there are several opportunities for greater involvement)
 - Method: Discussions in Slack & email, shared google doc for some notes, collaborative work on slides
 - Deliverable: Presentation slides, and at minimum sufficient notes to explain them, if not actually you presenting your area of focus yourself 
