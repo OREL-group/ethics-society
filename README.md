@@ -16,9 +16,18 @@ In the action-item sense, the NYCWiC accepted presentation is in the works, but 
 - Deliverable: Presentation slides, and at minimum sufficient notes to explain them, if not actually you presenting your area of focus yourself 
 
 
-###### Questions for YOU
+##### Questions for YOU
 - **What area of focus are you interested in?** (There are some broad categories below, but the specifics of our presentation will depend on contributors. 
 - **Involvement level?** This project is intentionally collaborative and open. However, if you are interested in fleshing out these topics more, beyond the narrow scope of the presentation at NYCWiC, there are opportunities to contribute to / develop topical essays to another venue's submissions, as well as a broader manuscript to go much more in-depth at a holistic level. However, the presentation at NYCWiC is nice, because it affords people from different backgrounds  an opportunity to work together, even without being 'ai ethics experts', and get experience at cross-discipline collaboration befitting much of the work necessary in AI Ethics itself. 
+
+##### Focus Areas
+- Algorithim Auditing
+- Existing Ethical Frameworks - Comparative Analysis of Current 
+- "FAT" Fairness - Accountability - Transparancy
+  - Interpretatbility & Explainability
+- Bias and "Neutraliy" - Critical Analaysis
+- Moral Theory & Philosphical Underpinnings
+- ... with room for your specific interests!
 
 ### Resources
 - [GitHub Project Board](https://github.com/orgs/OREL-group/projects/6) 
