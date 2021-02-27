@@ -5,7 +5,7 @@
 
 Latest Update: NYCWiC accepted presentation is in the works, but the Ethics Team at my lab itself has a variety of projects on this topic. 1) NYCWiC presentation, 2) Submissions to [AI Now's AI Lexicon](https://github.com/OREL-group/ethics-society/issues/1) short essays call for involvement, 3) [Manuscript](https://github.com/OREL-group/ethics-society/issues/8) - eventual development into much broader, refined paper. We are not AI Ethics Experts, but we can engage in cross-disciplinary team work in way befitting of operating within AI Ethics endeavors. 
 
-#### AI Ethics Presentation: Call for Involvement
+#### NYCWiC AI Ethics Presentation: Call for Involvement
 [GitHub Project Board](https://github.com/orgs/OREL-group/projects/6) | [NYCWiC '21](www.nycwic.org/) | Current Project Details: AI Ethics Frameworks Short Persentation 
 
 - ~15 minute presentation at NYCWiC (Accepted! Our (pre-recorded?) presentation will air April 9)
