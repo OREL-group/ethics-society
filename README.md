@@ -1,5 +1,10 @@
 # OREL Ethics & Society Team
-*A new Orthogonal Research & Education Lab - Ethics &amp; Society, focusing on AI Ethics, society-tech issues, law, programming ethics, and dovetails into fairness &amp; interpretability / explainability*
+Ethics and Society team, focusing on AI Ethics, society-tech issues, law, programming ethics, and dovetails into fairness &amp; interpretability / explainability*
+
+### New Lectures and Paper
+
+Angela Risius presented __"Data Trusts: a solution to our mass data collection discontent?"__ at the Rokwire Lecture Series. 
+
 
 ### Current Project: NYCWiC '21 (Accepted!) AI Ethics Presentation, and AI Now's AI Lexicon
 
