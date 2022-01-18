@@ -10,6 +10,10 @@ Angela Risius presented __"Data Trusts: a solution to our mass data collection d
 
 Latest Update: NYCWiC accepted presentation is in the works, but the Ethics Team at my lab itself has a variety of projects on this topic. 1) NYCWiC presentation, 2) Submissions to [AI Now's AI Lexicon](https://github.com/OREL-group/ethics-society/issues/1) short essays call for involvement, 3) [Manuscript](https://github.com/OREL-group/ethics-society/issues/8) - eventual development into much broader, refined paper. We are not AI Ethics Experts, but we can engage in cross-disciplinary team work in way befitting of operating within AI Ethics endeavors. 
 
+### New Project for Summer 2022: A Collective Cognition Model for AI Ethics
+
+Link to the OREL [Google Summer of Code website](https://orthogonal-research-lab.github.io/) for more information.
+
 #### NYCWiC AI Ethics Presentation: Call for Involvement
 [GitHub Project Board](https://github.com/orgs/OREL-group/projects/6) | [NYCWiC '21](www.nycwic.org/) | Current Project Details: AI Ethics Frameworks Short Persentation 
 
